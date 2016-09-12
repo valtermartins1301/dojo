@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+
+.cheque-header {
+    font-size: 2em;
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+}
+
+.cheque-input {
+    height: 25vh;
+    text-align: center;
+}
+
+form {
+    padding-top: 4em;
+}
+
+.cheque-result {
+    height: 25vh;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 2em;
+}
