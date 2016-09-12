@@ -1,2 +1,6 @@
-# dojo
-[Coding Dojo] - Projeto para armazenamento das soluções encontradas dos problemas escolhidos
+![coding dojo](./img/coding_dojo.png)
+Projeto destinado ao armazenamento/compartilhamento das soluções encontradas nos problemas escolhidos.
+
+# Dojos
+### 11/09/2016
+- [Cheque por extenso](http://dojopuzzles.com/problemas/exibe/cheque-por-extenso/)
