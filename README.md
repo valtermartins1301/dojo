@@ -4,3 +4,4 @@ Projeto destinado ao armazenamento/compartilhamento das soluções encontradas n
 # Dojos
 ### 11/09/2016
 - [Cheque por extenso](http://dojopuzzles.com/problemas/exibe/cheque-por-extenso/)
+- [Solução](./cheque_por_extenso/README.md)
