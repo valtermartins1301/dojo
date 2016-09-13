@@ -1,25 +1,24 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Cheque - Dojo dos brothers</title>
+        <title>Cheque por extenso</title>
         <link rel="stylesheet" href="css/master.css" media="screen">
         <link rel="stylesheet" href="css/palette.css" media="screen">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
         <div class="cheque-header dark-primary-color">
-            <h3 class="text-primary-color">Valor do cheque</h3>
+            <h3 class="text-primary-color">Cheque por extenso</h3>
         </div>
         <div class="cheque-input default-primary-color">
             <form>
-                <input id="valorInserido" type="number" min="0" step="any">
-                <input type="button" value="Valor por extenso" onClick="main()">
+                <input id="valorInserido" type="number" min="0" step="any" placeholder="Digite aqui o valor">
+                <input type="button" value="converter" onClick="main()">
             </form>
         </div>
         <div class="cheque-result">
             <span id="extenso"></span>
         </div>
-        <script type="text/javascript" src="script/master.js">
-
-        </script>
+        <script type="text/javascript" src="script/master.js"></script>
     </body>
 </html>

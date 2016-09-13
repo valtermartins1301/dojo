@@ -19,9 +19,19 @@ form {
     padding-top: 4em;
 }
 
+form > input {
+    font-size: 1.8em;
+    border-radius: 7px;
+    border: 0;
+}
+
 .cheque-result {
     height: 25vh;
     font-size: 2em;
     text-align: center;
     margin-top: 2em;
+}
+
+.cheque-result::first-letter {
+    text-transform: uppercase;
 }

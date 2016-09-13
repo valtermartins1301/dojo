@@ -7,3 +7,7 @@ Código utilizado para a resolução do problema `cheque por extenso`.
 
  Obs:
   - Limites impostos: Somente retorna o nome por extenso dos valores no intervalo de 1 a 100.
+
+### TODO
+  - Resolver o plural do número '1'.
+  - Criar teste automatizado.
